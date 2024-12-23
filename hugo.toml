@@ -1,0 +1,4 @@
+baseURL = 'https://oscfdezdz.github.io/'
+languageCode = 'es'
+title = 'Óscar Fernández Díaz'
+theme = 'PaperMod'
